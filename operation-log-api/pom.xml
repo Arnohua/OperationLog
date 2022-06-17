@@ -16,7 +16,7 @@
     <commons.lang.version>3.4</commons.lang.version>
     <fpx.ironforge.common.version>1.40.0-SNAPSHOT</fpx.ironforge.common.version>
     <fpx.ironforge.common.model.version>1.40.0-SNAPSHOT</fpx.ironforge.common.model.version>
-    <fastjson.version>1.2.47</fastjson.version>
+    <fastjson.version>1.2.83</fastjson.version>
   </properties>
 
   <dependencies>
